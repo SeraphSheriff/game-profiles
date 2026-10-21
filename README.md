@@ -18,6 +18,7 @@ before any of it appears on a public page.
 | Elder Scrolls Online | 678 | [elder-scrolls-online.md](elder-scrolls-online.md) |
 | Kingdom Come: Deliverance II | 559 | [kingdom-come-deliverance-2.md](kingdom-come-deliverance-2.md) |
 | Mass Effect Legendary Edition | 426 | [mass-effect-legendary-edition.md](mass-effect-legendary-edition.md) |
+| Black Mesa | 288 | [black-mesa.md](black-mesa.md) |
 | World of Warcraft | — | [world-of-warcraft.md](world-of-warcraft.md) |
 | Call of Duty | — | [call-of-duty.md](call-of-duty.md) |
 | Call of Duty: Warzone | — | [call-of-duty-warzone.md](call-of-duty-warzone.md) |
