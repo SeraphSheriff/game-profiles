@@ -5,9 +5,6 @@ stats, build, progress, and current goals for that game, so any AI session
 I open can give me build and gameplay advice that fits where I actually
 am, instead of generic tips.
 
-All profiles are public and deliberately clean: no real names, no account
-handles, no personal details. Some games have modded versions, no public details on mod-lists.
-
 | Game | Hours | Profile |
 |---|---|---|
 | Red Dead Redemption 2 | 2,558 | [red-dead-redemption-2.md](red-dead-redemption-2.md) |
